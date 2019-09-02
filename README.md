@@ -13,6 +13,7 @@ A demo application that transcribes and indexes podcast episodes so the listener
 	Region| Region Code | Launch
 	------|------|-------
 	US East (Virginia)| <span style="font-family:'Courier';">us-east-1</span> | [![Launch Step 0A in us-east-2](images/cfn-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=podcast-transcribe-index&templateURL=https://s3.amazonaws.com/aws-machine-learning-blog/artifacts/discovering-podcasts/packaged.yaml)
+	EU West 1 (Ireland)| <span style="font-family:'Courier';">eu-west-1</span> | [![Launch Step 0A in us-east-2](images/cfn-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=eu-west-1#/stacks/new?stackName=podcast-transcribe-index&templateURL=https://s3.amazonaws.com/aws-machine-learning-blog/artifacts/discovering-podcasts/packaged.yaml)
 
 	* Click **Create Change Set** to create the change set for this transform
 
